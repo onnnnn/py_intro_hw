@@ -1,5 +1,5 @@
 # py_intro_hw
-solutions to homework - introduction to python programming
+homework's solutions - introduction to python programming
 
 feel free to download all of the materials or solution's file.
 
